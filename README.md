@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @SvM79
+- 👋 Hi, I’m @SvM79 from Sweden
 - 👀 I’m interested in cybersecurity, Linux, Kali, Debian, WSL, win11, chatgpt
 - 🌱 I’m currently learning pentesting, red team, blue team, visualstudio and github
 - 💞️ I’m looking to collaborate on the above topics
-- 📫 How to reach me ...
-- 😄 Pronouns: him
+- 📫 Just message me here.
 - ⚡ Fun fact: I wish there was :-)
 
 <!---
