@@ -1,7 +1,7 @@
 # Om mig
 
-Jag är en IT-projektledare som kompletterar min yrkeserfarenhet med praktiska färdigheter inom Linux, cybersäkerhet, Git och automatisering.  
-Målet är att få en djupare teknisk förståelse, både för att kunna bidra bättre i skarpa leveranser och för att utforska stilla min personliga nyfikenhet.
+Jag är en projektledare som kompletterar min yrkeserfarenhet med praktiska färdigheter inom Linux, cybersäkerhet, Git och automatisering.  
+Målet är att få en djupare teknisk förståelse, både för att kunna bidra bättre i skarpa leveranser och för att stilla min personliga nyfikenhet.
 
 ## Pågående projekt
 
