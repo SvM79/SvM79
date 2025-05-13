@@ -14,12 +14,14 @@ Målet är att få en djupare teknisk förståelse, både för att kunna bidra b
 ## Verktyg och miljö
 
 - **Operativsystem:** Ubuntu (WSL), Kali, Debian, Windows (härdad)
-- **Maskinvara:** Laptop, Synology NAS
+- **Maskinvara:** Laptop, Synology NAS, miniserver
 - **Verktyg:** VS Code, Git (CLI + GUI), Docker, GitHub Actions, Wireshark, Suricata, Lynis
-- **Övrigt:** Synology Container Manager, Obsidian (för dokumentation), VirtualBox, cron/systemd
+- **Övrigt:** Synology Container Manager, Obsidian (för dokumentation), VirtualBox, Proxmox
 
 ## Vad du hittar här
 
-Det här kontot samlar mina övningsprojekt, labbmiljöer och dokumentation från ett pågående träningsprojekt inom IT och säkerhet.  
-Jag använder GitHub för att strukturera lärandet och bygga upp verktyg jag har nytta av på riktigt – med fokus på säkerhet, kontroll och integritet.
+Det här kontot samlar mina övningsprojekt, labbmiljöer och dokumentation från ett pågående projekt inom IT och säkerhet.  
+Jag använder GitHub för att strukturera och visa upp vad jag håller på med. 
+
+Jag connectar gärna med andra som känner igen sig i vad jag gör!
 ```
