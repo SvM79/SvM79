@@ -20,7 +20,7 @@ Jag gör detta för att jag tycker det är kul – och för att det hjälper mig
 - **Linux & nätverkslabb**  
   Egen labbmiljö med WSL, Ubuntu, Debian och Kali – träning i nätverk, systemadministration och sårbarhetsanalys
 
-- **Integritet & lokalkontroll**  
+- **Integritet & lokal kontroll**  
   Minimala beroenden till molntjänster genom t.ex. självhostad synk, blockering av telemetri, lokala Git-repon och DNS-hantering
 
 ---
