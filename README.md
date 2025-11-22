@@ -1,46 +1,24 @@
-# 👨‍💻 Om mig
+#  Om mig
 
-Jag har jobbat som projektledare i många år, och under de senaste åren har jag fördjupat mig i IT-relaterade projekt. Det väckte en nyfikenhet på allt som rör **containerisering, infrastruktur, Linux, cybersäkerhet, Git och automatisering**.
+Jag arbetar i skärningspunkten mellan **teknik, governance och cybersäkerhet**.
+Min bakgrund är projektledning i komplexa IT/OT-miljöer, och de senaste åren har jag fokuserat på att fördjupa min tekniska förståelse – både hands-on och strukturellt.
 
-Jag gör detta för att jag tycker det är kul – och för att det hjälper mig att förstå både tekniken bakom mina projekt och det dagliga arbetet hos mina kollegor. 💡
-
----
-
-## 🔧 Pågående projekt
-
-- **Privat cybersäkerhet**  
-  Hårdning av system, säkra uppkopplingar av solcellsanläggningar (SMA/STP) och hantering av existerande säkerhetsbrister
-
-- **Självhostade lösningar**  
-  Matrix Synapse, Home Assistant, containerbaserade tjänster på Synology och nu även i Proxmox
-
-- **CI/CD med GitHub**  
-  Flask-appar med automatiserade flöden (GitHub Actions + Render), hotfix-workflows och webhook-tester
-
-- **Linux & nätverkslabb**  
-  Egen labbmiljö med WSL, Ubuntu, Debian och Kali – träning i nätverk, systemadministration och sårbarhetsanalys
-
-- **Integritet & lokal kontroll**  
-  Minimala beroenden till molntjänster genom t.ex. självhostad synk, blockering av telemetri, lokala Git-repon och DNS-hantering
+Jag vill förstå **hur system fungerar**, **hur arbetssätt hänger ihop**, och **hur man bygger något som faktiskt håller över tid**.
 
 ---
 
-## 🧰 Verktyg & Miljö
+## 🔧 Fokusområden
 
-**Operativsystem**  
-Ubuntu (WSL), Debian, Kali, Windows (härdad med lokal inloggning)
-
-**Maskinvara**  
-Laptop, Synology NAS, miniserver med Proxmox
-
-**Verktyg**  
-VS Code, Git (CLI + GUI), Docker, GitHub Actions, Wireshark, Suricata, Lynis, ESPHome, Nmap
-
-**Övrigt**  
-Synology Container Manager, Obsidian (för dokumentation), VirtualBox, Proxmox, bash-skript och cron-jobb
+* **Security governance** – ISO 27000-seriens principer, styrning, risk, spårbarhet.
+* **Cybersecurity practice** – härdning, segmentering, analys av verkliga brister.
+* **Self-hosted & automation** – lokal kontroll, containerisering, labbmiljöer.
+* **Versioning & workflows** – strukturerat arbete, dokumentation och CI/CD.
+* **Linux & networks** – systemförståelse, felsökning och säkerhetsteknik.
 
 ---
 
-## 📂 Vad du hittar här
+## 📂 Här på GitHub
 
-Det här kontot samlar mina **övningsprojekt, labbmiljöer och dokumentation** från ett pågående självdrivet utbildningsprojekt inom IT och cybersäkerhet. Jag använder GitHub för att strukturera mitt lärande och visa upp min progression.
+Du hittar **labbprojekt, dokumentationsstrukturer och prototyper** som jag använder för att utveckla mitt kunnande inom informationssäkerhet, teknik och styrning.
+
+
